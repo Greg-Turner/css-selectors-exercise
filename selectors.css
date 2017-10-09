@@ -56,5 +56,5 @@ a > span.disabled {
 }
 
 span > input {
-    font-size: 25px;
+    line-height: 25px;
 }
